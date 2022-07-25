@@ -5,7 +5,7 @@ int main() {
 	// your code goes here
 	int T;
 	cin>>T;
-	for(int i=0; i<=T; i++){
+	for(int i=1; i<=T; i++){
 	    int X;
 	    cin>>X;
 	    
